@@ -1,0 +1,10 @@
+The large model files are stored in the GitHub Release:
+https://github.com/ayushigupta833/Film-Fiesta/releases/tag/v1.0
+
+Download the following files:
+- similarity.pkl
+- similarity_with_actors.pkl
+- movies.pkl
+- movies_with_actors.pkl
+- movie_dict.pkl
+- movie_dict_with_actors.pkl
